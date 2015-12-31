@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "18587E881E3ABFA494C4A3627AA8693F7A3692F3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "18587E881E3ABFA494C4A3627AA8693F7A3692F3" : 0,
+    "2B1A5417287E255E0349EBF523AC032133DD3493" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "70AA6DBE-845C-463C-9E82-5A8149EB973F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "18587E881E3ABFA494C4A3627AA8693F7A3692F3" : "STTwitter\/",
+    "2B1A5417287E255E0349EBF523AC032133DD3493" : "STTwitter\/demo_ios\/STTwitterDemoIOS\/slre\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "STTwitterDemoIOS",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "demo_ios\/STTwitterDemoIOS.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nst\/STTwitter.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "18587E881E3ABFA494C4A3627AA8693F7A3692F3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cesanta\/slre.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2B1A5417287E255E0349EBF523AC032133DD3493"
+    }
+  ]
+}
